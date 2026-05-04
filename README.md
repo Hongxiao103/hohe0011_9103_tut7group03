@@ -1,4 +1,3 @@
-# hohe0011_9103_tut7group03
 # Quiz 8
 
 ## Part 1: Imaging Technique Inspiration
